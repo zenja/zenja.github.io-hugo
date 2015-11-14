@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:zenja/zenja.github.io.git
+[submodule "themes/steam"]
+	path = themes/steam
+	url = git@github.com:digitalcraftsman/hugo-steam-theme.git
