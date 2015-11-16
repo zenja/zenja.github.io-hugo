@@ -5,7 +5,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 # Build the project.
 # if using a theme, replace by `hugo -t <yourtheme>`
 echo "Generating website..."
-hugo
+hugo -t hyde --buildDrafts
 echo "Website generated."
 
 # Go To Public folder

@@ -2,6 +2,6 @@
 	path = public
 	url = https://github.com/zenja/zenja.github.io.git
     branch = master
-[submodule "themes/steam"]
-	path = themes/steam
-	url = https://github.com/digitalcraftsman/hugo-steam-theme.git
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://github.com/spf13/hyde.git
